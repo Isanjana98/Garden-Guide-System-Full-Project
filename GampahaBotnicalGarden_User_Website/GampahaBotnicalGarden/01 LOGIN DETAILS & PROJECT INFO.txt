@@ -1,0 +1,10 @@
+
+**Database Name: gamphabotnicalgarden**
+
+**Admin Login Details**
+Email   : admin@gmail.com
+Password: Password@123
+
+***Landing Page: localhost/ [PROJECT_FOLDER_NAME] /public_html/***
+
+***Admin Panel : localhost/ [PROJECT_FOLDER_NAME] /admin/public_html/***

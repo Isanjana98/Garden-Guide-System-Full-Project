@@ -1,0 +1,18 @@
+
+
+**Database Name: gampahabotnicalgarden**
+
+
+
+
+
+**Admin Login Details**
+
+Email   : admin@mail.com
+Password: Password@123
+
+
+
+***Landing Page: localhost/ [PROJECT_FOLDER_NAME] /public_html/***
+
+***Admin Panel : localhost/ [PROJECT_FOLDER_NAME] /admin/public_html/***
